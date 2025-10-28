@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Calendar Schedular",
-  description: "Calendar Scheular is a simple and efficient calendar app that helps you manage your events, meetings, and schedules with ease. Stay organised and never miss an important date again!!", 
+  title: "Calendar Scheduler",
+  description: "Calendar Scheduler is a tool to schedule events on a calendar.",
 };
 
 export default function RootLayout({
